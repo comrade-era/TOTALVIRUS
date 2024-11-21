@@ -1,0 +1,22 @@
+{
+    "type": "file",
+    "attributes": {
+        "size": 3723264,
+        "tags": [
+            "malware",
+            "exploit",
+            "detect-debug-environment",
+            "cve-2017-0147",
+            "checks-network-adapters",
+            "checks-user-input",
+            "runtime-modules",
+            "direct-cpu-clock-access",
+            "macro-create-ole",
+            "peexe",
+            "long-sleeps",
+            "cve-2017-0144"
+        ],
+        "first_submission_date": 1494579471,
+        "type_extension": "exe",
+        "meaningful_name": "lhdfrgui.exe",
+        "pe_info": 
